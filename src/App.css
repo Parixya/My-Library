@@ -1,0 +1,13 @@
+input {
+    background-color: #dcdcdc;
+    outline: none;
+    border: none;
+    border-radius: 20px;
+    padding: .5rem 1rem;
+    margin: 0 .6rem;
+    font-size: 0.8rem;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
